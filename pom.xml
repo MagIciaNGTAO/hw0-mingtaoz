@@ -6,6 +6,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:craigmingtaozhang/hw0-mingtaoz.git</connection>
 		<developerConnection>scm:git:git@github.com:craigmingtaozhang/hw0-mingtaoz.git</developerConnection>
+		<tag>0.0.2</tag>
 	</scm>
 	<repositories>
 		<repository>
