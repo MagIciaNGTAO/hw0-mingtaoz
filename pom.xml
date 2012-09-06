@@ -4,8 +4,8 @@
 	<artifactId>hw0-mingtaoz</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git@github.com:craigmingtaozhang/hw0-mingtaoz.git</connection>
-		<developerConnection>scm:git@github.com:craigmingtaozhang/hw0-mingtaoz.git</developerConnection>
+		<connection>scm:git:git@github.com:craigmingtaozhang/hw0-mingtaoz.git</connection>
+		<developerConnection>scm:git:git@github.com:craigmingtaozhang/hw0-mingtaoz.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
